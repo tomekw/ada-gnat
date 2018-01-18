@@ -1,4 +1,4 @@
-FROM ubuntu:yakkety-20170104
+FROM ubuntu:artful
 
 MAINTAINER Tomek Wałkuski <ja@jestem.tw>
 
