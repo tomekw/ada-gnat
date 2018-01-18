@@ -1,6 +1,6 @@
 # ada-gnat
 
-Ubuntu with gnat installed
+Ubuntu with GNAT installed
 
 ## Usage
 
