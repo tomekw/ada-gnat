@@ -1,6 +1,6 @@
-FROM ubuntu:artful
+FROM ubuntu:bionic
 
-MAINTAINER Tomek Wałkuski <ja@jestem.tw>
+MAINTAINER Tomek Walkuski <tomek.walkuski@gmail.com>
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends gnat
